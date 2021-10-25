@@ -11,3 +11,5 @@ Learn brabch now mian branch and feature branch.
 learn fast forward.
 Git main branch is stash.
 Git is free software.
+Today is 10.25.
+It is main.
